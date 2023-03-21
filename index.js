@@ -1,4 +1,6 @@
 // Code your solutions in this file
+//creating and using loops 
+
 const names = ["Durant", "Harden", "Curry"];
 const writeCards = function(names, event){
     let giftMsgs = [];
